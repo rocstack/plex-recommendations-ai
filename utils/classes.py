@@ -10,3 +10,4 @@ class UserInputs:
     history_amount: int
     recommended_amount: int
     minimum_amount: int
+    wait_seconds: int
